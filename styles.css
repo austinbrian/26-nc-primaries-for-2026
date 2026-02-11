@@ -76,13 +76,21 @@ h1, h2, h3, .card-title {
   margin-bottom: 1rem;
 }
 
-.title {
-  font-size: 0.75rem;
-  font-weight: 600;
+.category-link {
+  display: block;
+  font-size: 0.6875rem;
+  font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.15em;
-  color: var(--text-secondary);
+  letter-spacing: 0.05em;
+  color: var(--accent);
+  text-decoration: none !important;
+  border: none;
   margin-bottom: 0.5rem;
+}
+
+.category-link:hover {
+  color: var(--text-primary);
+  text-decoration: none !important;
 }
 
 .subtitle {
