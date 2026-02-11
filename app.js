@@ -2,7 +2,6 @@
 let races = [];
 let currentView = 'peek';
 let currentFilter = 'ALL';
-let expandedRace = null; // Track which race is expanded
 
 // DOM Elements
 const board = document.getElementById('board');
@@ -46,7 +45,6 @@ function formatDate(dateStr) {
 // Check if race matches filter
 function matchesFilter(race, filter) {
   if (filter === 'ALL') return true;
-  // Check party or type
   return race.party === filter || race.type === filter;
 }
 
@@ -57,12 +55,17 @@ function getRoleClass(role) {
   if (roleLower.includes('appointed')) return 'appointed';
   if (roleLower.includes('frontrunner')) return 'frontrunner';
   if (roleLower.includes('challenger')) return 'challenger';
-  if (roleLower.includes('candidate')) return 'candidate';
   return 'candidate';
 }
 
+// Get expanded view type based on current view
+function getExpandedView() {
+  if (currentView === 'skim') return 'expanded-peruse';
+  return 'expanded-deep-dive';
+}
+
 // Create race card HTML
-function createRaceCard(race, isModal = false) {
+function createRaceCard(race) {
   const isHidden = !matchesFilter(race, currentFilter);
   const partyClass = race.party.toLowerCase();
 
@@ -82,10 +85,8 @@ function createRaceCard(race, isModal = false) {
     .map(issue => `<span class="issue-tag">${issue}</span>`)
     .join('');
 
-  const clickable = !isModal ? 'clickable' : '';
-
   return `
-    <article class="race-card party-${partyClass} ${isHidden ? 'hidden' : ''} ${clickable}"
+    <article class="race-card party-${partyClass} ${isHidden ? 'hidden' : ''}"
              data-party="${race.party}"
              data-type="${race.type}"
              data-rank="${race.rank}">
@@ -124,64 +125,10 @@ function createRaceCard(race, isModal = false) {
   `;
 }
 
-// Get expanded view type based on current view
-function getExpandedView() {
-  if (currentView === 'skim') return 'peruse';
-  return 'deep-dive';
-}
-
-// Show expanded race modal
-function showExpandedRace(rank) {
-  const race = races.find(r => r.rank === rank);
-  if (!race) return;
-
-  expandedRace = rank;
-  const expandedView = getExpandedView();
-
-  const modal = document.createElement('div');
-  modal.className = 'modal-overlay';
-  modal.innerHTML = `
-    <div class="modal-content view-${expandedView}">
-      <button class="modal-close" aria-label="Close">&times;</button>
-      ${createRaceCard(race, true)}
-    </div>
-  `;
-
-  document.body.appendChild(modal);
-  document.body.style.overflow = 'hidden';
-
-  // Close handlers
-  modal.querySelector('.modal-close').addEventListener('click', closeModal);
-  modal.addEventListener('click', (e) => {
-    if (e.target === modal) closeModal();
-  });
-}
-
-// Close modal
-function closeModal() {
-  const modal = document.querySelector('.modal-overlay');
-  if (modal) {
-    modal.remove();
-    document.body.style.overflow = '';
-    expandedRace = null;
-  }
-}
-
-// Handle card clicks
-function handleCardClick(e) {
-  const card = e.target.closest('.race-card.clickable');
-  if (!card) return;
-
-  const rank = parseInt(card.dataset.rank, 10);
-  showExpandedRace(rank);
-}
-
 // Render the board
 function renderBoard() {
-  // Update board class for view mode
   board.className = `board view-${currentView}`;
 
-  // Filter and render races
   const filteredRaces = races.filter(r => matchesFilter(r, currentFilter));
 
   if (filteredRaces.length === 0) {
@@ -213,7 +160,6 @@ function setFilter(filter) {
     btn.classList.toggle('active', btn.dataset.type === filter);
   });
 
-  // Update visibility of cards
   document.querySelectorAll('.race-card').forEach(card => {
     const cardParty = card.dataset.party;
     const cardType = card.dataset.type;
@@ -231,12 +177,32 @@ filterBtns.forEach(btn => {
   btn.addEventListener('click', () => setFilter(btn.dataset.type));
 });
 
-// Card click handler (delegated)
-board.addEventListener('click', handleCardClick);
+// Card click handler using event delegation
+board.addEventListener('click', function(e) {
+  const card = e.target.closest('.race-card');
+  if (!card) return;
 
-// Keyboard escape to close modal
-document.addEventListener('keydown', (e) => {
-  if (e.key === 'Escape') closeModal();
+  const expandedClass = getExpandedView();
+
+  // If clicking an already expanded card, collapse it
+  if (card.classList.contains('expanded')) {
+    card.classList.remove('expanded', 'expanded-peruse', 'expanded-deep-dive');
+    return;
+  }
+
+  // Collapse any other expanded card
+  const previouslyExpanded = board.querySelector('.race-card.expanded');
+  if (previouslyExpanded) {
+    previouslyExpanded.classList.remove('expanded', 'expanded-peruse', 'expanded-deep-dive');
+  }
+
+  // Expand this card
+  card.classList.add('expanded', expandedClass);
+
+  // Scroll into view
+  setTimeout(() => {
+    card.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }, 50);
 });
 
 // Initialize
