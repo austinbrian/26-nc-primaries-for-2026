@@ -60,7 +60,7 @@ function getRoleClass(role) {
 
 // Get expanded view type based on current view
 function getExpandedView() {
-  if (currentView === 'skim') return 'expanded-peruse';
+  if (currentView === 'skim' || currentView === 'peek') return 'expanded-peruse';
   return 'expanded-deep-dive';
 }
 
