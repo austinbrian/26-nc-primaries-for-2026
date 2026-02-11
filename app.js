@@ -1,6 +1,6 @@
 // State
 let races = [];
-let currentView = 'skim';
+let currentView = 'peek';
 let currentFilter = 'ALL';
 
 // DOM Elements
