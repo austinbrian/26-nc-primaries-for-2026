@@ -13,7 +13,7 @@ const filterBtns = document.querySelectorAll('.filter-btn');
 // Load data
 async function loadData() {
   try {
-    const response = await fetch('races.json');
+    const response = await fetch('races.json?v=' + Date.now());
     const data = await response.json();
     races = data.races;
     lastUpdatedEl.textContent = formatDate(data.lastUpdated);
