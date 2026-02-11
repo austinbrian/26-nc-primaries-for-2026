@@ -225,6 +225,14 @@ h1, h2, h3, .card-title {
   gap: 0.375rem;
 }
 
+.view-modes {
+  padding-left: 1rem;
+}
+
+.type-filters {
+  padding-right: 1rem;
+}
+
 .view-btn,
 .filter-btn {
   background: var(--bg-primary);
