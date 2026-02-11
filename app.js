@@ -130,6 +130,8 @@ function createRaceCard(race) {
         <div class="card-keyfact-label">Key Fact</div>
         ${race.keyFact}
       </div>
+
+      <button class="dive-deep-btn">Dive Deeper</button>
     </article>
   `;
 }
@@ -188,6 +190,17 @@ filterBtns.forEach(btn => {
 
 // Card click handler using event delegation
 board.addEventListener('click', function(e) {
+  // Handle "Dive Deeper" button click
+  if (e.target.classList.contains('dive-deep-btn')) {
+    e.stopPropagation();
+    const card = e.target.closest('.race-card');
+    if (card && card.classList.contains('expanded-peruse')) {
+      card.classList.remove('expanded-peruse');
+      card.classList.add('expanded-deep-dive');
+    }
+    return;
+  }
+
   const card = e.target.closest('.race-card');
   if (!card) return;
 

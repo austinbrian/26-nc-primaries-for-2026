@@ -639,6 +639,16 @@ h1, h2, h3, .card-title {
   border-radius: 0 6px 6px 0;
 }
 
+.view-peruse .card-stakes-label {
+  font-size: 0.6875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--yellow-dark);
+  margin-bottom: 0.25rem;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
 .view-peruse .card-issues,
 .view-peruse .card-keyfact {
   display: none;
@@ -813,6 +823,7 @@ h1, h2, h3, .card-title {
   letter-spacing: 0.05em;
   color: var(--yellow-dark);
   margin-bottom: 0.25rem;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
 }
 
 .view-deep-dive .card-issues {
@@ -847,6 +858,7 @@ h1, h2, h3, .card-title {
   letter-spacing: 0.05em;
   color: var(--accent);
   margin-bottom: 0.25rem;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
 }
 
 /* Clickable cards */
@@ -1010,11 +1022,49 @@ h1, h2, h3, .card-title {
 }
 
 .race-card.expanded-peruse .card-stakes-label {
-  display: none !important;
+  display: block !important;
+  font-size: 0.6875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--yellow-dark);
+  margin-bottom: 0.25rem;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
 }
 
 .race-card.expanded-peruse .card-issues,
 .race-card.expanded-peruse .card-keyfact {
+  display: none !important;
+}
+
+/* Dive Deep button - hidden by default */
+.dive-deep-btn {
+  display: none;
+}
+
+/* Show in expanded-peruse only */
+.race-card.expanded-peruse .dive-deep-btn {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.race-card.expanded-peruse .dive-deep-btn:hover {
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  border-color: var(--text-muted);
+}
+
+/* Hide in deep-dive view */
+.race-card.expanded-deep-dive .dive-deep-btn {
   display: none !important;
 }
 
