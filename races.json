@@ -1,0 +1,705 @@
+{
+  "lastUpdated": "2026-02-11",
+  "title": "2026 NC Primary Elections Guide",
+  "subtitle": "26 Races to Watch",
+  "races": [
+    {
+      "rank": 1,
+      "title": "Senate District 26 Republican Primary",
+      "party": "Republican",
+      "type": "State Senate",
+      "location": "Rockingham & Guilford Counties",
+      "candidates": [
+        {
+          "name": "Phil Berger",
+          "role": "Incumbent",
+          "description": "State Senate leader since 2011, has led GOP agenda on taxes, immigration, Medicaid expansion, and redistricting"
+        },
+        {
+          "name": "Sam Page",
+          "role": "Challenger",
+          "description": "Rockingham County Sheriff, finished fifth in 2024 lieutenant governor primary but dominated home county"
+        }
+      ],
+      "summary": "The state Senate showdown between GOP leader Phil Berger and Rockingham County Sheriff Sam Page is undoubtedly the most important North Carolina primary to watch. Berger drew ire from constituents in 2023 after pushing for a casino in Rockingham County. Trump urged Page to drop out and offered him an administration role, but Page refused.",
+      "stakes": "A primary victory for Berger would reaffirm his influence, while a defeat could signal growing frustration with the status quo in Raleigh.",
+      "keyIssues": ["Casino legislation", "GOP leadership", "Status quo"],
+      "keyFact": "Berger has $1.6M cash on hand vs Page's $29K. But Guilford County (57% of district) will likely decide the outcome."
+    },
+    {
+      "rank": 2,
+      "title": "House District 106 Democratic Primary",
+      "party": "Democratic",
+      "type": "State House",
+      "location": "Mecklenburg County",
+      "candidates": [
+        {
+          "name": "Carla Cunningham",
+          "role": "Incumbent",
+          "description": "Most conservative-voting Democrat in Raleigh, voted with Republicans to override governor's vetoes"
+        },
+        {
+          "name": "Rev. Rodney Sadler",
+          "role": "Challenger",
+          "description": "Running with Gov. Stein's support, stands to benefit from party frustration with incumbent"
+        },
+        {
+          "name": "Vermanno Bowman",
+          "role": "Challenger",
+          "description": "Lost to Cunningham by 69 points in 2024 primary"
+        }
+      ],
+      "summary": "Rep. Carla Cunningham was the most conservative-voting Democrat in Raleigh last year. She received fierce pushback over immigration comments and because she voted with Republicans to override vetoes, the state party is withholding a critical voter-turnout tool.",
+      "stakes": "This race could say a lot about the mood of the party—and if Republicans fail to win a House supermajority, it could mean the difference on overriding the governor's veto.",
+      "keyIssues": ["Party loyalty", "Veto overrides", "Immigration"],
+      "keyFact": "State party withholding VoteBuilder access from Cunningham's campaign."
+    },
+    {
+      "rank": 3,
+      "title": "1st Congressional District Republican Primary",
+      "party": "Republican",
+      "type": "U.S. House",
+      "location": "Northeastern NC (25 counties)",
+      "candidates": [
+        {
+          "name": "Laurie Buckhout",
+          "role": "Frontrunner",
+          "description": "Army veteran, narrowly lost to Rep. Don Davis in 2024, took Trump admin cyber defense job"
+        },
+        {
+          "name": "Bobby Hanig",
+          "role": "Challenger",
+          "description": "State Senator from Currituck County, lobbied against shrimp trawling ban"
+        },
+        {
+          "name": "Eric Rouse",
+          "role": "Challenger",
+          "description": "Businessman, presents himself as most Trump-aligned candidate"
+        },
+        {
+          "name": "Asa Buck",
+          "role": "Challenger",
+          "description": "Carteret County Sheriff since 2006"
+        },
+        {
+          "name": "Ashley-Nicole Russell",
+          "role": "Challenger",
+          "description": "Divorce attorney with limited campaign resources"
+        }
+      ],
+      "summary": "This five-person race will decide who runs in what's poised to be the most competitive congressional race this fall. A Black Democrat has represented this district since 1992, but the new GOP-drawn map moved it from tossup to leaning Republican.",
+      "stakes": "No Republican has held this seat since 1883. New maps give GOP their best chance in over a century.",
+      "keyIssues": ["Redistricting", "Trump alignment", "Shrimp trawling"],
+      "keyFact": "Buckhout entered 2026 with nearly twice as much money as her four opponents combined."
+    },
+    {
+      "rank": 4,
+      "title": "4th Congressional District Democratic Primary",
+      "party": "Democratic",
+      "type": "U.S. House",
+      "location": "Durham, Orange, Wake, Chatham Counties",
+      "candidates": [
+        {
+          "name": "Valerie Foushee",
+          "role": "Incumbent",
+          "description": "Has support from state Democratic Party delegation, Gov. Stein, former Gov. Cooper, and top legislative Democrats"
+        },
+        {
+          "name": "Nida Allam",
+          "role": "Challenger",
+          "description": "Durham County commissioner, first Muslim woman to hold elected office in NC, endorsed by Bernie Sanders"
+        },
+        {
+          "name": "Mary Patterson",
+          "role": "Challenger",
+          "description": "Not seen as a serious threat"
+        }
+      ],
+      "summary": "A heavyweight bout between incumbent Rep. Valerie Foushee and progressive challenger Nida Allam. In 2022, Allam lost by 9 points in an eight-person field—but the district has been dramatically altered since then, likely to Allam's advantage.",
+      "stakes": "The outcome will show the direction one of the state's most liberal districts is heading.",
+      "keyIssues": ["Israel/Gaza policy", "Immigration enforcement", "Progressive vs establishment"],
+      "keyFact": "Allam raised $334K in three weeks vs Foushee's $140K for the quarter. Bernie Sanders hosting event for Allam."
+    },
+    {
+      "rank": 5,
+      "title": "House District 27 Democratic Primary",
+      "party": "Democratic",
+      "type": "State House",
+      "location": "Northampton County",
+      "candidates": [
+        {
+          "name": "Rodney Pierce",
+          "role": "Incumbent",
+          "description": "Political newcomer who upset Wray in 2024 by narrowest margin of any legislative primary, endorsed by Stein"
+        },
+        {
+          "name": "Michael Wray",
+          "role": "Challenger",
+          "description": "Former state rep, one of few Democrats willing to override Cooper's vetoes"
+        }
+      ],
+      "summary": "In 2024, political newcomer Rodney Pierce defeated state Rep. Michael Wray by the narrowest margin of any legislative primary in the state. Now, Wray is looking for a rematch against new barriers.",
+      "stakes": "Whether primary voters reward Wray's independent streak or Pierce's loyalty to party leadership remains to be seen.",
+      "keyIssues": ["Party loyalty", "Veto overrides", "Independent voting"],
+      "keyFact": "State Democratic Party withholding VoteBuilder from Wray. He has $116K cash on hand."
+    },
+    {
+      "rank": 6,
+      "title": "Senate District 1 Republican Primary",
+      "party": "Republican",
+      "type": "State Senate",
+      "location": "Coastal NC",
+      "candidates": [
+        {
+          "name": "Jerry Tillett",
+          "role": "Candidate",
+          "description": "Former Superior Court Judge, sued multiple people for defamation after recording allegations"
+        },
+        {
+          "name": "Jay Lane",
+          "role": "Candidate",
+          "description": "Farmer with support from Agriculture Commissioner Troxler and Rules Chairman Bill Rabon"
+        },
+        {
+          "name": "Cole Johnson",
+          "role": "Candidate",
+          "description": "U.S. Marine Corps veteran, hasn't filed fundraising paperwork"
+        },
+        {
+          "name": "David Forsythe",
+          "role": "Candidate",
+          "description": "Gates County Commissioner, hasn't filed fundraising paperwork"
+        }
+      ],
+      "summary": "This contest for the open coastal seat that Sen. Bobby Hanig currently holds has attracted four GOP candidates. Former Judge Jerry Tillett has garnered attention after a recording surfaced with racial slur allegations, which he denies.",
+      "stakes": "Open seat race that could be shaped by controversy surrounding the frontrunner.",
+      "keyIssues": ["Racial controversy", "Agricultural interests", "Coastal issues"],
+      "keyFact": "Tillett has sued his former daughter-in-law, her husband, a website publisher, and social media antagonist for defamation."
+    },
+    {
+      "rank": 7,
+      "title": "House District 60 Democratic Primary",
+      "party": "Democratic",
+      "type": "State House",
+      "location": "Guilford County (High Point)",
+      "candidates": [
+        {
+          "name": "Amanda Cook",
+          "role": "Appointed Incumbent",
+          "description": "High Point City Councilwoman, tapped by local Democrats to replace resigned predecessor"
+        },
+        {
+          "name": "Angie Williams-McMichael",
+          "role": "Challenger",
+          "description": "Former charter school teacher"
+        },
+        {
+          "name": "Joe Alston",
+          "role": "Challenger",
+          "description": "Former chair of Guilford County Democratic Party"
+        },
+        {
+          "name": "Bruce Davis",
+          "role": "Challenger",
+          "description": "Former Guilford County commissioner"
+        }
+      ],
+      "summary": "Four Democrats are vying for the seat previously held by Cecil Brockman, who resigned last year after being arrested and charged with sexual offenses against minors.",
+      "stakes": "Competitive primary to fill seat vacated under scandal.",
+      "keyIssues": ["Local governance", "Party leadership"],
+      "keyFact": "Cook was appointed to fill the vacancy but must win primary to keep serving."
+    },
+    {
+      "rank": 8,
+      "title": "House District 79 Republican Primary",
+      "party": "Republican",
+      "type": "State House",
+      "location": "Beaufort County",
+      "candidates": [
+        {
+          "name": "Keith Kidwell",
+          "role": "Incumbent",
+          "description": "House Freedom Caucus leader, killed shrimp trawling bill, opposed pesticide company lawsuit protections"
+        },
+        {
+          "name": "Darren Armstrong",
+          "role": "Challenger",
+          "description": "Farmer and business owner, recruited by House Agriculture Committee chairman, backed by Troxler"
+        }
+      ],
+      "summary": "There's perhaps no lawmaker who frustrates the Republican establishment more than Rep. Keith Kidwell. He leads the House Freedom Caucus and most famously pressed colleagues to kill a shrimp trawling bill last year.",
+      "stakes": "Test of whether establishment can unseat a Freedom Caucus leader.",
+      "keyIssues": ["Shrimp trawling", "Pesticide legislation", "Party establishment vs Freedom Caucus"],
+      "keyFact": "House Agriculture Chairman Jimmy Dixon told Kidwell via text that he personally recruited Armstrong to run against him."
+    },
+    {
+      "rank": 9,
+      "title": "Senate District 34 Republican Primary",
+      "party": "Republican",
+      "type": "State Senate",
+      "location": "Cabarrus County",
+      "candidates": [
+        {
+          "name": "Chris Measmer",
+          "role": "Appointed Incumbent",
+          "description": "Cabarrus County Commissioner who filled vacant seat when Paul Newton left for UNC attorney role"
+        },
+        {
+          "name": "Kevin Crutchfield",
+          "role": "Challenger",
+          "description": "Former state representative who lost reelection bid in 2024"
+        }
+      ],
+      "summary": "When state Senate Majority Leader Paul Newton left office to become UNC-Chapel Hill's chief attorney, Commissioner Chris Measmer filled the vacant seat. Now he faces former Rep. Kevin Crutchfield.",
+      "stakes": "With Measmer running for first time and Crutchfield out of office, it's tough to get a read on this race.",
+      "keyIssues": ["GOP leadership succession", "Local representation"],
+      "keyFact": "Both candidates operating on thin budgets. Crutchfield loaned his campaign $25K; Measmer raised $38K mostly from fellow lawmakers."
+    },
+    {
+      "rank": 10,
+      "title": "House District 113 Republican Primary",
+      "party": "Republican",
+      "type": "State House",
+      "location": "Polk County (Western NC)",
+      "candidates": [
+        {
+          "name": "Jake Johnson",
+          "role": "Incumbent",
+          "description": "Deputy majority whip since 2019, quick to call for Hurricane Helene relief"
+        },
+        {
+          "name": "Mike Hager",
+          "role": "Challenger",
+          "description": "Former House Majority Leader who resigned in 2016, launched unsuccessful speaker bid in 2014"
+        }
+      ],
+      "summary": "Rep. Jake Johnson has steadily risen through party ranks to deputy majority whip. When Hurricane Helene struck his district, he called for additional relief. But Western NC continues to struggle with slow recovery.",
+      "stakes": "This race could tell us how much voters blame Republican leaders for slow hurricane recovery.",
+      "keyIssues": ["Hurricane Helene recovery", "Federal bureaucracy", "Party leadership"],
+      "keyFact": "Signs of becoming most expensive primary in state. Hager has $158K vs Johnson's $119K."
+    },
+    {
+      "rank": 11,
+      "title": "House District 99 Democratic Primary",
+      "party": "Democratic",
+      "type": "State House",
+      "location": "Mecklenburg County",
+      "candidates": [
+        {
+          "name": "Nasif Majeed",
+          "role": "Incumbent",
+          "description": "Cast deciding vote to override Stein's veto on gender-affirming care and library books bill"
+        },
+        {
+          "name": "Tucker Neal",
+          "role": "Challenger",
+          "description": "UNC Charlotte student"
+        },
+        {
+          "name": "Veleria Levy",
+          "role": "Challenger",
+          "description": "President and CEO of HerHealth Consulting"
+        }
+      ],
+      "summary": "Rep. Nasif Majeed caught his party by surprise when he voted to override Gov. Stein's veto of legislation on gender-affirming care and library books. He wasn't present for initial vote but gave Republicans the deciding vote.",
+      "stakes": "On paper, Majeed should win with two inexperienced opponents splitting votes. But upsets happen.",
+      "keyIssues": ["Gender-affirming care", "Library access", "Party loyalty"],
+      "keyFact": "State Democratic Party preventing his campaign from accessing VoteBuilder voter-turnout tool."
+    },
+    {
+      "rank": 12,
+      "title": "House District 90 Republican Primary",
+      "party": "Republican",
+      "type": "State House",
+      "location": "Surry & Wilkes Counties",
+      "candidates": [
+        {
+          "name": "A.J. Daoud",
+          "role": "Candidate",
+          "description": "Ran unsuccessfully for state treasurer in 2024, narrowly carried Surry County in that primary"
+        },
+        {
+          "name": "Dan Kiger",
+          "role": "Candidate",
+          "description": "Veteran State Highway Patrol trooper with longstanding district ties"
+        },
+        {
+          "name": "Paul Barker",
+          "role": "Candidate",
+          "description": "Former chief deputy with Surry County Sheriff's Office"
+        }
+      ],
+      "summary": "With Rep. Sarah Stevens running for state Supreme Court, whoever wins has big shoes to fill. Stevens has shaped legislation on voting, healthcare, and other matters.",
+      "stakes": "Open seat with three candidates who all have different strengths in this 80% Surry / 20% Wilkes district.",
+      "keyIssues": ["Open seat succession", "Local law enforcement ties"],
+      "keyFact": "Daoud carried Surry but lost badly in Wilkes in 2024 treasurer primary. Kiger and Barker have deep local ties."
+    },
+    {
+      "rank": 13,
+      "title": "Court of Appeals Judge Seat 3 Democratic Primary",
+      "party": "Democratic",
+      "type": "Judicial",
+      "location": "Statewide",
+      "candidates": [
+        {
+          "name": "Christine Walczyk",
+          "role": "Candidate",
+          "description": "Wake County district court trial judge for 18 years, endorsed by former Justices Beasley and Hudson, NCAE"
+        },
+        {
+          "name": "James Whalen",
+          "role": "Candidate",
+          "description": "Appellate attorney at Brooks Pierce, endorsed by former Justices Orr, Mitchell, Frye, Timmons-Goodson"
+        }
+      ],
+      "summary": "Two Democrats vying for seat held by Judge Allegra Collins, who isn't seeking reelection. Both have competing endorsements from former Supreme Court justices.",
+      "stakes": "One of the more interesting judicial primaries with heavyweights on both sides.",
+      "keyIssues": ["Judicial experience", "Appellate expertise"],
+      "keyFact": "Walczyk has nine former Court of Appeals judges behind her; Whalen's firm defended Justice Riggs' 2024 victory."
+    },
+    {
+      "rank": 14,
+      "title": "Court of Appeals Judge Seat 1 Republican Primary",
+      "party": "Republican",
+      "type": "Judicial",
+      "location": "Statewide",
+      "candidates": [
+        {
+          "name": "Matt Smith",
+          "role": "Candidate",
+          "description": "Superior Court Judge from Union County, won district court in 2020 and superior court in 2022"
+        },
+        {
+          "name": "Michael Byrne",
+          "role": "Candidate",
+          "description": "Administrative Law Judge since 2020, endorsed by police organizations"
+        }
+      ],
+      "summary": "Republicans have a contested primary in their quest to unseat Democratic incumbent John Arrowood. The candidates have tangled over who is more conservative.",
+      "stakes": "Smith questioning Byrne's GOP loyalty over past donations to Democrats including Arrowood and Roy Cooper.",
+      "keyIssues": ["Conservative credentials", "Past political donations"],
+      "keyFact": "Byrne donated $500 to Democrat Arrowood in 2018, says he didn't know Arrowood was a Democrat at the time."
+    },
+    {
+      "rank": 15,
+      "title": "House District 110 Republican Primary",
+      "party": "Republican",
+      "type": "State House",
+      "location": "Gaston County",
+      "candidates": [
+        {
+          "name": "Kelly Hastings",
+          "role": "Incumbent",
+          "description": "In office since 2010, announced retirement in May 2025 then reversed course a month later"
+        },
+        {
+          "name": "Caroline Eason",
+          "role": "Challenger",
+          "description": "Pharmacist with new doctorate from UNC-Chapel Hill, active in GOP politics, testified on legislation"
+        }
+      ],
+      "summary": "Rep. Kelly Hastings hasn't faced a serious primary threat since 2010. He announced he wouldn't seek reelection last May, then changed his mind a month later. Eason jumped in shortly after.",
+      "stakes": "Could be the biggest primary flying under the radar. Young, hungry challengers can upset complacent incumbents.",
+      "keyIssues": ["Incumbent complacency", "New generation of leadership"],
+      "keyFact": "Eason outraised Hastings and entered 2026 with $20K+ vs Hastings' $17.5K."
+    },
+    {
+      "rank": 16,
+      "title": "Senate District 22 Democratic Primary",
+      "party": "Democratic",
+      "type": "State Senate",
+      "location": "Durham County",
+      "candidates": [
+        {
+          "name": "Sophia Chitlik",
+          "role": "Incumbent",
+          "description": "Freshman lawmaker"
+        },
+        {
+          "name": "DeDreana Freeman",
+          "role": "Challenger",
+          "description": "Narrowly lost Durham City Council reelection in 2025, has campaign infrastructure in place"
+        }
+      ],
+      "summary": "One of few competitive Democratic legislative primaries this year. Freshman Sen. Sophia Chitlik faces a challenge from DeDreana Freeman.",
+      "stakes": "Coming off a recent electoral defeat may not be encouraging for Freeman, but existing campaign infrastructure could propel an upset.",
+      "keyIssues": ["Durham representation", "Freshman incumbent vulnerability"],
+      "keyFact": "Freeman narrowly lost her 2025 city council reelection bid but has campaign infrastructure ready."
+    },
+    {
+      "rank": 17,
+      "title": "House District 118 Republican Primary",
+      "party": "Republican",
+      "type": "State House",
+      "location": "Haywood County (Western NC)",
+      "candidates": [
+        {
+          "name": "Mark Pless",
+          "role": "Incumbent",
+          "description": "Was holdout on Helene relief bill, now chairs emergency management committee"
+        },
+        {
+          "name": "Jimmy Rogers",
+          "role": "Challenger",
+          "description": "Longtime school board member"
+        }
+      ],
+      "summary": "Rep. Mark Pless was one of the last-minute holdouts on a controversial 2024 bill that provided some Helene relief but focused on taking power from Stein. He felt it didn't deliver enough support to constituents.",
+      "stakes": "Western NC residents and business owners are still reeling. Will voters blame incumbent?",
+      "keyIssues": ["Hurricane Helene recovery", "Disaster relief", "Governor's powers"],
+      "keyFact": "Pless fell in line with party on veto override vote and later became chair of emergency management committee."
+    },
+    {
+      "rank": 18,
+      "title": "House District 65 Republican Primary",
+      "party": "Republican",
+      "type": "State House",
+      "location": "Rockingham County",
+      "candidates": [
+        {
+          "name": "Reece Pyrtle",
+          "role": "Incumbent",
+          "description": "Current state representative"
+        },
+        {
+          "name": "Seth Woodall",
+          "role": "Challenger",
+          "description": "Eden attorney, finished fourth in 2024 lieutenant governor primary, put $1M into that race"
+        },
+        {
+          "name": "Joseph Gibson",
+          "role": "Challenger",
+          "description": "Was embraced by neo-Nazis in previous election, lost by 61 points in 2025"
+        }
+      ],
+      "summary": "Rep. Reece Pyrtle faces two opponents. Seth Woodall is a serious challenger who can self-finance—he put $1 million into his 2024 lieutenant governor bid.",
+      "stakes": "Heavy spending paired with anti-establishment sentiment could be enough for an upset.",
+      "keyIssues": ["Self-funded challenger", "Anti-establishment sentiment"],
+      "keyFact": "Woodall put $1M into 2024 LG race but hasn't self-funded legislative campaign yet."
+    },
+    {
+      "rank": 19,
+      "title": "House District 37 Democratic Primary",
+      "party": "Democratic",
+      "type": "State House",
+      "location": "Wake County",
+      "candidates": [
+        {
+          "name": "Winn Decker",
+          "role": "Candidate",
+          "description": "Educational policy consultant"
+        },
+        {
+          "name": "Marcus Gadson",
+          "role": "Candidate",
+          "description": "UNC-Chapel Hill law professor"
+        },
+        {
+          "name": "Ralph Clements",
+          "role": "Candidate",
+          "description": "Health care consultant"
+        }
+      ],
+      "summary": "The Wake County seat held by Republican Rep. Erin Paré is one of few viable pickup opportunities for Democrats. Three Democrats are vying for the chance to take her on.",
+      "stakes": "Paré carried district by 6 points in 2024. Uphill battle but winnable if there's a blue wave.",
+      "keyIssues": ["Flipping GOP seat", "Suburban Wake County"],
+      "keyFact": "One of few Wake County primaries worth watching—winner faces competitive general election."
+    },
+    {
+      "rank": 20,
+      "title": "House District 95 Republican Primary",
+      "party": "Republican",
+      "type": "State House",
+      "location": "Iredell County",
+      "candidates": [
+        {
+          "name": "Todd Carver",
+          "role": "Incumbent",
+          "description": "Current state representative, has $11K on hand"
+        },
+        {
+          "name": "Mike Kubiniec",
+          "role": "Challenger",
+          "description": "School board member involved in scuffle with board chair, part of 2023 texting scandal"
+        }
+      ],
+      "summary": "Rep. Todd Carver is looking to fend off school board member Mike Kubiniec. Kubiniec was involved in a profanity-laced altercation with the school board chair and a 2023 texting scandal.",
+      "stakes": "Carver is the favorite but Kubiniec is no stranger to contentious political battles.",
+      "keyIssues": ["School board politics", "Open meetings law"],
+      "keyFact": "Kubiniec was accused of mocking students behind closed doors in 2023 texting scandal."
+    },
+    {
+      "rank": 21,
+      "title": "House District 78 Republican Primary",
+      "party": "Republican",
+      "type": "State House",
+      "location": "Moore County",
+      "candidates": [
+        {
+          "name": "Neal Jackson",
+          "role": "Incumbent",
+          "description": "Raised $158K with $201K cash on hand—massive fundraising haul"
+        },
+        {
+          "name": "Mark Dutton",
+          "role": "Challenger",
+          "description": "Retired Wildlife Resources Commission officer, raised $24K with $16K on hand"
+        }
+      ],
+      "summary": "Retired Wildlife Resources Commission officer Mark Dutton is seeking to unseat state Rep. Neal Jackson of Moore County.",
+      "stakes": "Significant fundraising disparity makes this an uphill battle for challenger.",
+      "keyIssues": ["Wildlife and natural resources", "Incumbent advantage"],
+      "keyFact": "Jackson has $201K in the bank vs Dutton's $16K—roughly 12:1 cash advantage."
+    },
+    {
+      "rank": 22,
+      "title": "House District 55 Republican Primary",
+      "party": "Republican",
+      "type": "State House",
+      "location": "Anson & Union Counties",
+      "candidates": [
+        {
+          "name": "Clancy Baucom",
+          "role": "Candidate",
+          "description": "Businessman"
+        },
+        {
+          "name": "John Powell",
+          "role": "Candidate",
+          "description": "Real estate broker"
+        },
+        {
+          "name": "Richard Miller",
+          "role": "Candidate",
+          "description": "Businessman"
+        }
+      ],
+      "summary": "Three Republicans are looking to take the open seat that Mark Brody is leaving behind. It's a fairly safe GOP seat in Anson County and parts of Union County.",
+      "stakes": "Whoever comes out on top could come to Raleigh for the long haul in this safe GOP seat.",
+      "keyIssues": ["Open seat succession", "Rural representation"],
+      "keyFact": "Safe GOP seat means primary winner will likely serve for years to come."
+    },
+    {
+      "rank": 23,
+      "title": "Senate District 9 / House District 4 Republican Primaries",
+      "party": "Republican",
+      "type": "State Senate",
+      "location": "Eastern NC",
+      "candidates": [
+        {
+          "name": "Brent Jackson",
+          "role": "Incumbent (SD9)",
+          "description": "Longtime state senator being challenged by William Barbour"
+        },
+        {
+          "name": "William Barbour",
+          "role": "Challenger (SD9)",
+          "description": "Actor who starred as a teacher on Netflix's 13 Reasons Why"
+        },
+        {
+          "name": "Jimmy Dixon",
+          "role": "Incumbent (HD4)",
+          "description": "80-year-old chairman of House Agriculture Committee"
+        },
+        {
+          "name": "Marcella Barbour",
+          "role": "Challenger (HD4)",
+          "description": "William Barbour's wife, challenging Dixon"
+        }
+      ],
+      "summary": "A husband-and-wife duo are running to oust two of the longest-serving Republicans in the legislature. William Barbour (an actor from Netflix's 13 Reasons Why) is challenging Sen. Brent Jackson, while his wife Marcella is taking on Rep. Jimmy Dixon.",
+      "stakes": "Primary elections are notoriously unpredictable. Might one of them pull off the upset of the year?",
+      "keyIssues": ["Outsider candidates", "Long-serving incumbents", "Anti-establishment"],
+      "keyFact": "Neither Barbour has reported receiving a single donation, which probably doesn't bode well for their aspirations."
+    },
+    {
+      "rank": 24,
+      "title": "Senate District 21 Republican Primary",
+      "party": "Republican",
+      "type": "State Senate",
+      "location": "Cumberland County",
+      "candidates": [
+        {
+          "name": "Tom McInnis",
+          "role": "Incumbent",
+          "description": "State senator whose attorney sent cease-and-desist over campaign messages"
+        },
+        {
+          "name": "Ray Daly",
+          "role": "Challenger",
+          "description": "Has tangled with McInnis over Medicaid, only received $550 from outside donors"
+        }
+      ],
+      "summary": "Republican state Sen. Tom McInnis faces a challenge from Ray Daly. The two have tangled over Medicaid, with McInnis' attorney sending Daly a letter to take down political messages that the incumbent argues are defamatory.",
+      "stakes": "McInnis is the favorite to win given Daly's limited fundraising.",
+      "keyIssues": ["Medicaid", "Defamation claims", "Campaign messaging"],
+      "keyFact": "Daly only received $550 from outside donors last year."
+    },
+    {
+      "rank": 25,
+      "title": "11th Congressional District Democratic Primary",
+      "party": "Democratic",
+      "type": "U.S. House",
+      "location": "Western NC (Asheville area)",
+      "candidates": [
+        {
+          "name": "Jamie Ager",
+          "role": "Frontrunner",
+          "description": "Farmer and businessman whose father and brother have both served in the General Assembly"
+        },
+        {
+          "name": "Paul Maddox",
+          "role": "Challenger",
+          "description": "Cancer researcher"
+        },
+        {
+          "name": "Dr. Richard Hudspeth",
+          "role": "Challenger",
+          "description": "Former CEO of UNC Blue Ridge Health"
+        },
+        {
+          "name": "Zelda Briarwood",
+          "role": "Challenger",
+          "description": "Party activist"
+        },
+        {
+          "name": "Lee Whipple",
+          "role": "Challenger",
+          "description": "Civil engineer"
+        }
+      ],
+      "summary": "Whoever wins will have their work cut out for them in ousting Republican U.S. Rep. Chuck Edwards. But with national Democrats expanding their battleground priorities to include this seat, nothing is off limits.",
+      "stakes": "Western NC seat is now on Democrats' expanded battleground map.",
+      "keyIssues": ["Rural Democratic strategy", "Chuck Edwards vulnerability", "Western NC representation"],
+      "keyFact": "Ager entered 2026 with four times more cash in the bank than all his opponents combined."
+    },
+    {
+      "rank": 26,
+      "title": "U.S. Senate Republican Primary",
+      "party": "Republican",
+      "type": "U.S. Senate",
+      "location": "Statewide",
+      "candidates": [
+        {
+          "name": "Michael Whatley",
+          "role": "Frontrunner",
+          "description": "Former Republican National Committee Chairman, endorsed by Trump"
+        },
+        {
+          "name": "Michele Morrow",
+          "role": "Challenger",
+          "description": "Conservative activist who upset state Superintendent Catherine Truitt in 2024 primary"
+        },
+        {
+          "name": "Don Brown",
+          "role": "Challenger",
+          "description": "Former Navy JAG officer, seen as best alternative to Whatley by anti-establishment voters"
+        }
+      ],
+      "summary": "Michele Morrow pulled off the biggest upset of 2024 defeating state Superintendent Catherine Truitt. Nobody wants to make the same mistake by dismissing challengers to frontrunner Michael Whatley in the race to take on Roy Cooper.",
+      "stakes": "Could Morrow prove the entire political world wrong once again?",
+      "keyIssues": ["Trump endorsement", "Anti-establishment movement", "Cooper matchup"],
+      "keyFact": "Morrow questioned Trump's endorsement of Whatley: 'President Trump does not truly know the landscape of NC politics.'"
+    }
+  ]
+}
