@@ -2,6 +2,7 @@
 let races = [];
 let currentView = 'peek';
 let currentFilter = 'ALL';
+let expandedRace = null; // Track which race is expanded
 
 // DOM Elements
 const board = document.getElementById('board');
@@ -61,7 +62,7 @@ function getRoleClass(role) {
 }
 
 // Create race card HTML
-function createRaceCard(race) {
+function createRaceCard(race, isModal = false) {
   const isHidden = !matchesFilter(race, currentFilter);
   const partyClass = race.party.toLowerCase();
 
@@ -81,10 +82,13 @@ function createRaceCard(race) {
     .map(issue => `<span class="issue-tag">${issue}</span>`)
     .join('');
 
+  const clickable = !isModal ? 'clickable' : '';
+
   return `
-    <article class="race-card party-${partyClass} ${isHidden ? 'hidden' : ''}"
+    <article class="race-card party-${partyClass} ${isHidden ? 'hidden' : ''} ${clickable}"
              data-party="${race.party}"
-             data-type="${race.type}">
+             data-type="${race.type}"
+             data-rank="${race.rank}">
       <div class="card-header">
         <span class="card-rank">${race.rank}</span>
         <div class="card-info">
@@ -118,6 +122,58 @@ function createRaceCard(race) {
       </div>
     </article>
   `;
+}
+
+// Get expanded view type based on current view
+function getExpandedView() {
+  if (currentView === 'skim') return 'peruse';
+  return 'deep-dive';
+}
+
+// Show expanded race modal
+function showExpandedRace(rank) {
+  const race = races.find(r => r.rank === rank);
+  if (!race) return;
+
+  expandedRace = rank;
+  const expandedView = getExpandedView();
+
+  const modal = document.createElement('div');
+  modal.className = 'modal-overlay';
+  modal.innerHTML = `
+    <div class="modal-content view-${expandedView}">
+      <button class="modal-close" aria-label="Close">&times;</button>
+      ${createRaceCard(race, true)}
+    </div>
+  `;
+
+  document.body.appendChild(modal);
+  document.body.style.overflow = 'hidden';
+
+  // Close handlers
+  modal.querySelector('.modal-close').addEventListener('click', closeModal);
+  modal.addEventListener('click', (e) => {
+    if (e.target === modal) closeModal();
+  });
+}
+
+// Close modal
+function closeModal() {
+  const modal = document.querySelector('.modal-overlay');
+  if (modal) {
+    modal.remove();
+    document.body.style.overflow = '';
+    expandedRace = null;
+  }
+}
+
+// Handle card clicks
+function handleCardClick(e) {
+  const card = e.target.closest('.race-card.clickable');
+  if (!card) return;
+
+  const rank = parseInt(card.dataset.rank, 10);
+  showExpandedRace(rank);
 }
 
 // Render the board
@@ -173,6 +229,14 @@ viewBtns.forEach(btn => {
 
 filterBtns.forEach(btn => {
   btn.addEventListener('click', () => setFilter(btn.dataset.type));
+});
+
+// Card click handler (delegated)
+board.addEventListener('click', handleCardClick);
+
+// Keyboard escape to close modal
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape') closeModal();
 });
 
 // Initialize
