@@ -85,6 +85,11 @@ function createRaceCard(race) {
     .map(issue => `<span class="issue-tag">${issue}</span>`)
     .join('');
 
+  // Convert fullText newlines to paragraphs
+  const fullTextHTML = race.fullText
+    ? race.fullText.split('\n\n').map(p => `<p>${p}</p>`).join('')
+    : '';
+
   return `
     <article class="race-card party-${partyClass} ${isHidden ? 'hidden' : ''}"
              data-party="${race.party}"
@@ -107,6 +112,10 @@ function createRaceCard(race) {
       </div>
 
       <p class="card-summary">${race.summary}</p>
+
+      <div class="card-fulltext">
+        ${fullTextHTML}
+      </div>
 
       <div class="card-stakes">
         <div class="card-stakes-label">Why It Matters</div>

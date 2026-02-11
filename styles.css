@@ -48,8 +48,13 @@ h1, h2, h3, .card-title {
   font-weight: 700;
 }
 
-.card-summary, .card-stakes, .card-keyfact, .candidate-desc {
+.card-summary, .card-fulltext, .card-stakes, .card-keyfact, .candidate-desc {
   font-family: Georgia, 'Times New Roman', serif;
+}
+
+/* Full text hidden by default */
+.card-fulltext {
+  display: none;
 }
 
 .container {
@@ -772,10 +777,23 @@ h1, h2, h3, .card-title {
 }
 
 .view-deep-dive .card-summary {
+  display: none;
+}
+
+.view-deep-dive .card-fulltext {
+  display: block;
   font-size: 1rem;
   color: var(--text-secondary);
   line-height: 1.7;
+  margin-bottom: 1.5rem;
+}
+
+.view-deep-dive .card-fulltext p {
   margin-bottom: 1rem;
+}
+
+.view-deep-dive .card-fulltext p:last-child {
+  margin-bottom: 0;
 }
 
 .view-deep-dive .card-stakes {
@@ -1096,12 +1114,24 @@ h1, h2, h3, .card-title {
 }
 
 .race-card.expanded-deep-dive .card-summary {
+  display: none !important;
+}
+
+.race-card.expanded-deep-dive .card-fulltext {
   display: block !important;
   font-size: 1rem;
   color: var(--text-secondary);
   line-height: 1.7;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
   font-family: Georgia, 'Times New Roman', serif;
+}
+
+.race-card.expanded-deep-dive .card-fulltext p {
+  margin-bottom: 1rem;
+}
+
+.race-card.expanded-deep-dive .card-fulltext p:last-child {
+  margin-bottom: 0;
 }
 
 .race-card.expanded-deep-dive .card-stakes {
