@@ -4,7 +4,7 @@ An interactive guide to North Carolina's top primary elections, built for The As
 
 ## Live Site
 
-- **GitHub Pages**: https://austinbrian.github.io/matchup-guide/
+- **GitHub Pages**: https://austinbrian.github.io/26-nc-primaries-for-2026/
 - **Data source**: `races.json`
 
 ## Quick Start
