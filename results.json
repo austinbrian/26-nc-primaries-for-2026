@@ -1,169 +1,169 @@
 {
-  "lastUpdated": "2026-03-03T21:33:33",
-  "precinctsReporting": "1702 of 2633",
+  "lastUpdated": "2026-03-04T03:21:21",
+  "precinctsReporting": "2401 of 2633",
   "races": {
     "Senate District 26 Republican Primary": {
-      "precinctsReporting": "23 of 48",
+      "precinctsReporting": "43 of 48",
       "candidates": [
         {
           "name": "Sam Page",
-          "votes": 10847,
-          "percentage": 0.5573
+          "votes": 12722,
+          "percentage": 0.507
         },
         {
           "name": "Phil Berger",
-          "votes": 8618,
-          "percentage": 0.4427
+          "votes": 12369,
+          "percentage": 0.493
         }
       ]
     },
     "House District 106 Democratic Primary": {
-      "precinctsReporting": "5 of 11",
+      "precinctsReporting": "8 of 11",
       "candidates": [
         {
           "name": "Rev. Rodney Sadler",
-          "votes": 5498,
-          "percentage": 0.7233
+          "votes": 6510,
+          "percentage": 0.7169
         },
         {
           "name": "Carla Cunningham",
-          "votes": 1564,
-          "percentage": 0.2058
+          "votes": 1902,
+          "percentage": 0.2094
         },
         {
           "name": "Vermanno Bowman",
-          "votes": 539,
-          "percentage": 0.0709
+          "votes": 669,
+          "percentage": 0.0737
         }
       ]
     },
     "1st Congressional District Republican Primary": {
-      "precinctsReporting": "193 of 292",
+      "precinctsReporting": "282 of 292",
       "candidates": [
         {
           "name": "Laurie Buckhout",
-          "votes": 21635,
-          "percentage": 0.3839
+          "votes": 25580,
+          "percentage": 0.3895
         },
         {
           "name": "Asa Buck",
-          "votes": 20262,
-          "percentage": 0.3595
+          "votes": 22907,
+          "percentage": 0.3488
         },
         {
           "name": "Bobby Hanig",
-          "votes": 8865,
-          "percentage": 0.1573
+          "votes": 10633,
+          "percentage": 0.1619
         },
         {
           "name": "Eric Rouse",
-          "votes": 3074,
-          "percentage": 0.0545
+          "votes": 3600,
+          "percentage": 0.0548
         },
         {
           "name": "Ashley-Nicole Russell",
-          "votes": 2518,
-          "percentage": 0.0447
+          "votes": 2951,
+          "percentage": 0.0449
         }
       ]
     },
     "4th Congressional District Democratic Primary": {
-      "precinctsReporting": "59 of 142",
+      "precinctsReporting": "109 of 142",
       "candidates": [
         {
           "name": "Valerie Foushee",
-          "votes": 44611,
-          "percentage": 0.5123
+          "votes": 54282,
+          "percentage": 0.498
         },
         {
           "name": "Nida Allam",
-          "votes": 40415,
-          "percentage": 0.4641
+          "votes": 52026,
+          "percentage": 0.4773
         },
         {
           "name": "Mary Patterson",
-          "votes": 2060,
-          "percentage": 0.0237
+          "votes": 2698,
+          "percentage": 0.0248
         }
       ]
     },
     "House District 27 Democratic Primary": {
-      "precinctsReporting": "25 of 46",
+      "precinctsReporting": "45 of 46",
       "candidates": [
         {
           "name": "Rodney Pierce",
-          "votes": 6594,
-          "percentage": 0.6488
+          "votes": 8487,
+          "percentage": 0.6423
         },
         {
           "name": "Michael Wray",
-          "votes": 3569,
-          "percentage": 0.3512
+          "votes": 4726,
+          "percentage": 0.3577
         }
       ]
     },
     "Senate District 1 Republican Primary": {
-      "precinctsReporting": "36 of 96",
+      "precinctsReporting": "88 of 96",
       "candidates": [
         {
           "name": "Jerry Tillett",
-          "votes": 5679,
-          "percentage": 0.4253
+          "votes": 7107,
+          "percentage": 0.3829
         },
         {
           "name": "Jay Lane",
-          "votes": 3672,
-          "percentage": 0.275
+          "votes": 5735,
+          "percentage": 0.309
         },
         {
           "name": "David Forsythe",
-          "votes": 2143,
-          "percentage": 0.1605
+          "votes": 2915,
+          "percentage": 0.157
         },
         {
           "name": "Cole Johnson",
-          "votes": 1858,
-          "percentage": 0.1392
+          "votes": 2805,
+          "percentage": 0.1511
         }
       ]
     },
     "House District 60 Democratic Primary": {
-      "precinctsReporting": "4 of 30",
+      "precinctsReporting": "27 of 30",
       "candidates": [
         {
           "name": "Amanda Cook",
-          "votes": 1746,
-          "percentage": 0.4095
+          "votes": 2859,
+          "percentage": 0.4277
         },
         {
           "name": "Angie Williams-McMichael",
-          "votes": 1252,
-          "percentage": 0.2936
+          "votes": 1970,
+          "percentage": 0.2947
         },
         {
           "name": "Joe Alston",
-          "votes": 765,
-          "percentage": 0.1794
+          "votes": 1086,
+          "percentage": 0.1625
         },
         {
           "name": "Bruce Davis",
-          "votes": 501,
-          "percentage": 0.1175
+          "votes": 770,
+          "percentage": 0.1152
         }
       ]
     },
     "House District 79 Republican Primary": {
-      "precinctsReporting": "26 of 44",
+      "precinctsReporting": "43 of 44",
       "candidates": [
         {
           "name": "Darren Armstrong",
-          "votes": 6477,
-          "percentage": 0.5192
+          "votes": 7362,
+          "percentage": 0.5226
         },
         {
           "name": "Keith Kidwell",
-          "votes": 5998,
-          "percentage": 0.4808
+          "votes": 6726,
+          "percentage": 0.4774
         }
       ]
     },
@@ -183,132 +183,132 @@
       ]
     },
     "House District 113 Republican Primary": {
-      "precinctsReporting": "26 of 28",
+      "precinctsReporting": "28 of 28",
       "candidates": [
         {
           "name": "Jake Johnson",
-          "votes": 7015,
-          "percentage": 0.6071
+          "votes": 7318,
+          "percentage": 0.6108
         },
         {
           "name": "Mike Hager",
-          "votes": 4539,
-          "percentage": 0.3929
+          "votes": 4663,
+          "percentage": 0.3892
         }
       ]
     },
     "House District 99 Democratic Primary": {
-      "precinctsReporting": "2 of 9",
+      "precinctsReporting": "5 of 9",
       "candidates": [
         {
           "name": "Veleria Levy",
-          "votes": 2714,
-          "percentage": 0.6645
+          "votes": 3520,
+          "percentage": 0.6747
         },
         {
           "name": "Nasif Majeed",
-          "votes": 1127,
-          "percentage": 0.276
+          "votes": 1415,
+          "percentage": 0.2712
         },
         {
           "name": "Tucker Neal",
-          "votes": 243,
-          "percentage": 0.0595
+          "votes": 282,
+          "percentage": 0.0541
         }
       ]
     },
     "House District 90 Republican Primary": {
-      "precinctsReporting": "25 of 29",
+      "precinctsReporting": "29 of 29",
       "candidates": [
         {
           "name": "Dan Kiger",
-          "votes": 6978,
-          "percentage": 0.5202
+          "votes": 7421,
+          "percentage": 0.5187
         },
         {
           "name": "Paul Barker",
-          "votes": 4835,
-          "percentage": 0.3604
+          "votes": 5140,
+          "percentage": 0.3593
         },
         {
           "name": "A.J. Daoud",
-          "votes": 1601,
-          "percentage": 0.1194
+          "votes": 1745,
+          "percentage": 0.122
         }
       ]
     },
     "Court of Appeals Judge Seat 3 Democratic Primary": {
-      "precinctsReporting": "1702 of 2633",
+      "precinctsReporting": "2401 of 2633",
       "candidates": [
         {
           "name": "Christine Walczyk",
-          "votes": 364922,
-          "percentage": 0.6231
+          "votes": 450191,
+          "percentage": 0.6226
         },
         {
           "name": "James Whalen",
-          "votes": 220739,
-          "percentage": 0.3769
+          "votes": 272874,
+          "percentage": 0.3774
         }
       ]
     },
     "Court of Appeals Judge Seat 1 Republican Primary": {
-      "precinctsReporting": "1702 of 2633",
+      "precinctsReporting": "2401 of 2633",
       "candidates": [
         {
           "name": "Michael Byrne",
-          "votes": 242497,
-          "percentage": 0.5069
+          "votes": 287860,
+          "percentage": 0.5116
         },
         {
           "name": "Matt Smith",
-          "votes": 235913,
-          "percentage": 0.4931
+          "votes": 274845,
+          "percentage": 0.4884
         }
       ]
     },
     "House District 110 Republican Primary": {
-      "precinctsReporting": "19 of 20",
+      "precinctsReporting": "20 of 20",
       "candidates": [
         {
           "name": "Caroline Eason",
-          "votes": 3477,
-          "percentage": 0.5354
+          "votes": 3575,
+          "percentage": 0.5369
         },
         {
           "name": "Kelly Hastings",
-          "votes": 3017,
-          "percentage": 0.4646
+          "votes": 3084,
+          "percentage": 0.4631
         }
       ]
     },
     "Senate District 22 Democratic Primary": {
-      "precinctsReporting": "12 of 36",
+      "precinctsReporting": "29 of 36",
       "candidates": [
         {
           "name": "Sophia Chitlik",
-          "votes": 15732,
-          "percentage": 0.6762
+          "votes": 20633,
+          "percentage": 0.6707
         },
         {
           "name": "DeDreana Freeman",
-          "votes": 7534,
-          "percentage": 0.3238
+          "votes": 10129,
+          "percentage": 0.3293
         }
       ]
     },
     "House District 118 Republican Primary": {
-      "precinctsReporting": "37 of 41",
+      "precinctsReporting": "41 of 41",
       "candidates": [
         {
           "name": "Jimmy Rogers",
-          "votes": 4645,
-          "percentage": 0.5426
+          "votes": 4960,
+          "percentage": 0.547
         },
         {
           "name": "Mark Pless",
-          "votes": 3916,
-          "percentage": 0.4574
+          "votes": 4107,
+          "percentage": 0.453
         }
       ]
     },
@@ -333,22 +333,22 @@
       ]
     },
     "House District 37 Democratic Primary": {
-      "precinctsReporting": "0 of 14",
+      "precinctsReporting": "3 of 14",
       "candidates": [
         {
           "name": "Winn Decker",
-          "votes": 2571,
-          "percentage": 0.533
+          "votes": 3028,
+          "percentage": 0.5128
         },
         {
           "name": "Marcus Gadson",
-          "votes": 1784,
-          "percentage": 0.3698
+          "votes": 2260,
+          "percentage": 0.3827
         },
         {
           "name": "Ralph Clements",
-          "votes": 469,
-          "percentage": 0.0972
+          "votes": 617,
+          "percentage": 0.1045
         }
       ]
     },
@@ -403,32 +403,32 @@
       ]
     },
     "Senate District 9 Republican Primary": {
-      "precinctsReporting": "38 of 75",
+      "precinctsReporting": "68 of 75",
       "candidates": [
         {
           "name": "Brent Jackson",
-          "votes": 11228,
-          "percentage": 0.7829
+          "votes": 15754,
+          "percentage": 0.7954
         },
         {
           "name": "William Barbour",
-          "votes": 3113,
-          "percentage": 0.2171
+          "votes": 4052,
+          "percentage": 0.2046
         }
       ]
     },
     "House District 4 Republican Primary": {
-      "precinctsReporting": "15 of 25",
+      "precinctsReporting": "25 of 25",
       "candidates": [
         {
           "name": "Jimmy Dixon",
-          "votes": 3931,
-          "percentage": 0.821
+          "votes": 5472,
+          "percentage": 0.8168
         },
         {
           "name": "Marcella Barbour",
-          "votes": 857,
-          "percentage": 0.179
+          "votes": 1227,
+          "percentage": 0.1832
         }
       ]
     },
@@ -448,72 +448,72 @@
       ]
     },
     "11th Congressional District Democratic Primary": {
-      "precinctsReporting": "226 of 291",
+      "precinctsReporting": "291 of 291",
       "candidates": [
         {
           "name": "Jamie Ager",
-          "votes": 41195,
-          "percentage": 0.648
+          "votes": 49077,
+          "percentage": 0.6469
         },
         {
           "name": "Dr. Richard Hudspeth",
-          "votes": 10168,
-          "percentage": 0.1599
+          "votes": 12027,
+          "percentage": 0.1585
         },
         {
           "name": "Zelda Briarwood",
-          "votes": 7916,
-          "percentage": 0.1245
+          "votes": 9852,
+          "percentage": 0.1299
         },
         {
           "name": "Paul Maddox",
-          "votes": 3367,
-          "percentage": 0.053
+          "votes": 3842,
+          "percentage": 0.0506
         },
         {
           "name": "Lee Whipple",
-          "votes": 928,
-          "percentage": 0.0146
+          "votes": 1071,
+          "percentage": 0.0141
         }
       ]
     },
     "U.S. Senate Republican Primary": {
-      "precinctsReporting": "1702 of 2633",
+      "precinctsReporting": "2401 of 2633",
       "candidates": [
         {
           "name": "Michael Whatley",
-          "votes": 329803,
-          "percentage": 0.642
+          "votes": 389432,
+          "percentage": 0.645
         },
         {
           "name": "Don Brown",
-          "votes": 81484,
-          "percentage": 0.1586
+          "votes": 94335,
+          "percentage": 0.1562
         },
         {
           "name": "Thomas Johnson",
-          "votes": 29324,
-          "percentage": 0.0571
+          "votes": 34358,
+          "percentage": 0.0569
         },
         {
           "name": "Michele Morrow",
-          "votes": 28617,
+          "votes": 33631,
           "percentage": 0.0557
         },
         {
           "name": "Elizabeth A. Temple",
-          "votes": 19944,
-          "percentage": 0.0388
+          "votes": 23224,
+          "percentage": 0.0385
         },
         {
           "name": "Margot Dupre",
-          "votes": 12408,
-          "percentage": 0.0242
+          "votes": 14421,
+          "percentage": 0.0239
         },
         {
           "name": "Richard Dansie",
-          "votes": 12102,
-          "percentage": 0.0236
+          "votes": 14366,
+          "percentage": 0.0238
         }
       ]
     }
