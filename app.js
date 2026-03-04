@@ -103,8 +103,13 @@ function matchCandidateName(ncsbeName, raceCandidates) {
   if (parts.length > 1 && suffixes.includes(ncsbeLastName)) {
     ncsbeLastName = parts[parts.length - 2].toUpperCase();
   }
-  for (const c of raceCandidates) {
-    if (extractLastName(c.name) === ncsbeLastName) return c.name;
+  const ncsbeFirstName = parts[0].toUpperCase();
+  const lastNameMatches = raceCandidates.filter(c => extractLastName(c.name) === ncsbeLastName);
+  if (lastNameMatches.length === 1) return lastNameMatches[0].name;
+  // Multiple candidates share a last name — match on first name too
+  if (lastNameMatches.length > 1) {
+    const firstAndLast = lastNameMatches.find(c => c.name.split(/\s+/)[0].toUpperCase() === ncsbeFirstName);
+    if (firstAndLast) return firstAndLast.name;
   }
   // Title-case the NCSBE name as fallback
   return ncsbeName.split(/\s+/).map(w => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()).join(' ');

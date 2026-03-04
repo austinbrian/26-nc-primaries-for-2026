@@ -75,17 +75,22 @@ def extract_last_name(name: str) -> str:
 
 
 def match_candidate(ncsbe_name: str, race_candidates: list[dict]) -> dict | None:
-    """Match an NCSBE ballot name to a candidate by last name."""
-    ncsbe_last = ncsbe_name.strip().split()[-1].upper()
-    # Remove suffixes from NCSBE name too
+    """Match an NCSBE ballot name to a candidate by last name, then first name if ambiguous."""
     suffixes = {"JR.", "SR.", "II", "III", "IV", "V"}
     parts = ncsbe_name.strip().split()
-    if len(parts) > 1 and parts[-1].upper() in suffixes:
+    ncsbe_last = parts[-1].upper()
+    if len(parts) > 1 and ncsbe_last in suffixes:
         ncsbe_last = parts[-2].upper()
+    ncsbe_first = parts[0].upper()
 
-    for candidate in race_candidates:
-        if extract_last_name(candidate["name"]) == ncsbe_last:
-            return candidate
+    last_matches = [c for c in race_candidates if extract_last_name(c["name"]) == ncsbe_last]
+    if len(last_matches) == 1:
+        return last_matches[0]
+    # Multiple candidates share a last name — match on first name too
+    if len(last_matches) > 1:
+        for c in last_matches:
+            if c["name"].split()[0].upper() == ncsbe_first:
+                return c
     return None
 
 
