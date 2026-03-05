@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-05T23:37:16",
+  "lastUpdated": "2026-03-05T23:59:06",
   "precinctsReporting": "2633 of 2633",
   "races": {
     "Senate District 26 Republican Primary": {
@@ -242,12 +242,12 @@
       "candidates": [
         {
           "name": "Christine Walczyk",
-          "votes": 491188,
+          "votes": 491193,
           "percentage": 0.6235
         },
         {
           "name": "James Whalen",
-          "votes": 296590,
+          "votes": 296591,
           "percentage": 0.3765
         }
       ]
@@ -257,12 +257,12 @@
       "candidates": [
         {
           "name": "Michael Byrne",
-          "votes": 300883,
+          "votes": 300890,
           "percentage": 0.5154
         },
         {
           "name": "Matt Smith",
-          "votes": 282853,
+          "votes": 282865,
           "percentage": 0.4846
         }
       ]
@@ -407,13 +407,13 @@
       "candidates": [
         {
           "name": "Brent Jackson",
-          "votes": 15754,
-          "percentage": 0.7954
+          "votes": 15765,
+          "percentage": 0.7951
         },
         {
           "name": "William Barbour",
-          "votes": 4052,
-          "percentage": 0.2046
+          "votes": 4063,
+          "percentage": 0.2049
         }
       ]
     },
@@ -482,32 +482,32 @@
       "candidates": [
         {
           "name": "Michael Whatley",
-          "votes": 404199,
+          "votes": 404211,
           "percentage": 0.646
         },
         {
           "name": "Don Brown",
-          "votes": 97589,
+          "votes": 97590,
           "percentage": 0.156
         },
         {
           "name": "Thomas Johnson",
-          "votes": 35378,
+          "votes": 35382,
           "percentage": 0.0565
         },
         {
           "name": "Michele Morrow",
-          "votes": 34961,
+          "votes": 34965,
           "percentage": 0.0559
         },
         {
           "name": "Elizabeth A. Temple",
-          "votes": 23794,
+          "votes": 23795,
           "percentage": 0.038
         },
         {
           "name": "Richard Dansie",
-          "votes": 14929,
+          "votes": 14930,
           "percentage": 0.0239
         },
         {
