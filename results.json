@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T17:56:18",
+  "lastUpdated": "2026-03-06T18:16:54",
   "precinctsReporting": "2633 of 2633",
   "races": {
     "Senate District 26 Republican Primary": {
@@ -242,12 +242,12 @@
       "candidates": [
         {
           "name": "Christine Walczyk",
-          "votes": 491226,
+          "votes": 491348,
           "percentage": 0.6235
         },
         {
           "name": "James Whalen",
-          "votes": 296606,
+          "votes": 296670,
           "percentage": 0.3765
         }
       ]
@@ -257,13 +257,13 @@
       "candidates": [
         {
           "name": "Michael Byrne",
-          "votes": 300967,
-          "percentage": 0.5154
+          "votes": 300991,
+          "percentage": 0.5155
         },
         {
           "name": "Matt Smith",
-          "votes": 282928,
-          "percentage": 0.4846
+          "votes": 282944,
+          "percentage": 0.4845
         }
       ]
     },
@@ -482,27 +482,27 @@
       "candidates": [
         {
           "name": "Michael Whatley",
-          "votes": 404295,
+          "votes": 404320,
           "percentage": 0.646
         },
         {
           "name": "Don Brown",
-          "votes": 97617,
+          "votes": 97623,
           "percentage": 0.156
         },
         {
           "name": "Thomas Johnson",
-          "votes": 35399,
+          "votes": 35401,
           "percentage": 0.0566
         },
         {
           "name": "Michele Morrow",
-          "votes": 34976,
+          "votes": 34979,
           "percentage": 0.0559
         },
         {
           "name": "Elizabeth A. Temple",
-          "votes": 23805,
+          "votes": 23808,
           "percentage": 0.038
         },
         {
@@ -512,7 +512,7 @@
         },
         {
           "name": "Margot Dupre",
-          "votes": 14824,
+          "votes": 14825,
           "percentage": 0.0237
         }
       ]
