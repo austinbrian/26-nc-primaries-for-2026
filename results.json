@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T18:46:25",
+  "lastUpdated": "2026-03-06T19:15:03",
   "precinctsReporting": "2633 of 2633",
   "races": {
     "Senate District 26 Republican Primary": {
@@ -42,27 +42,27 @@
       "candidates": [
         {
           "name": "Laurie Buckhout",
-          "votes": 26557,
-          "percentage": 0.3952
+          "votes": 26564,
+          "percentage": 0.3953
         },
         {
           "name": "Asa Buck",
-          "votes": 23147,
-          "percentage": 0.3445
+          "votes": 23148,
+          "percentage": 0.3444
         },
         {
           "name": "Bobby Hanig",
-          "votes": 10904,
+          "votes": 10908,
           "percentage": 0.1623
         },
         {
           "name": "Eric Rouse",
-          "votes": 3617,
+          "votes": 3619,
           "percentage": 0.0538
         },
         {
           "name": "Ashley-Nicole Russell",
-          "votes": 2967,
+          "votes": 2968,
           "percentage": 0.0442
         }
       ]
@@ -107,23 +107,23 @@
       "candidates": [
         {
           "name": "Jerry Tillett",
-          "votes": 7529,
-          "percentage": 0.3789
+          "votes": 7533,
+          "percentage": 0.3788
         },
         {
           "name": "Jay Lane",
-          "votes": 6271,
-          "percentage": 0.3156
+          "votes": 6275,
+          "percentage": 0.3155
         },
         {
           "name": "David Forsythe",
-          "votes": 3149,
-          "percentage": 0.1585
+          "votes": 3150,
+          "percentage": 0.1584
         },
         {
           "name": "Cole Johnson",
-          "votes": 2924,
-          "percentage": 0.1471
+          "votes": 2929,
+          "percentage": 0.1473
         }
       ]
     },
@@ -242,12 +242,12 @@
       "candidates": [
         {
           "name": "Christine Walczyk",
-          "votes": 491390,
+          "votes": 491428,
           "percentage": 0.6235
         },
         {
           "name": "James Whalen",
-          "votes": 296732,
+          "votes": 296755,
           "percentage": 0.3765
         }
       ]
@@ -257,12 +257,12 @@
       "candidates": [
         {
           "name": "Michael Byrne",
-          "votes": 301036,
+          "votes": 301062,
           "percentage": 0.5154
         },
         {
           "name": "Matt Smith",
-          "votes": 282997,
+          "votes": 283027,
           "percentage": 0.4846
         }
       ]
@@ -407,7 +407,7 @@
       "candidates": [
         {
           "name": "Brent Jackson",
-          "votes": 15771,
+          "votes": 15772,
           "percentage": 0.7951
         },
         {
@@ -482,27 +482,27 @@
       "candidates": [
         {
           "name": "Michael Whatley",
-          "votes": 404373,
+          "votes": 404400,
           "percentage": 0.646
         },
         {
           "name": "Don Brown",
-          "votes": 97639,
+          "votes": 97653,
           "percentage": 0.156
         },
         {
           "name": "Thomas Johnson",
-          "votes": 35410,
+          "votes": 35417,
           "percentage": 0.0566
         },
         {
           "name": "Michele Morrow",
-          "votes": 34985,
+          "votes": 34989,
           "percentage": 0.0559
         },
         {
           "name": "Elizabeth A. Temple",
-          "votes": 23813,
+          "votes": 23817,
           "percentage": 0.038
         },
         {
@@ -512,7 +512,7 @@
         },
         {
           "name": "Margot Dupre",
-          "votes": 14829,
+          "votes": 14831,
           "percentage": 0.0237
         }
       ]
