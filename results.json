@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T15:19:20",
+  "lastUpdated": "2026-03-06T15:45:14",
   "precinctsReporting": "2633 of 2633",
   "races": {
     "Senate District 26 Republican Primary": {
@@ -42,7 +42,7 @@
       "candidates": [
         {
           "name": "Laurie Buckhout",
-          "votes": 26542,
+          "votes": 26543,
           "percentage": 0.3952
         },
         {
@@ -57,7 +57,7 @@
         },
         {
           "name": "Eric Rouse",
-          "votes": 3613,
+          "votes": 3614,
           "percentage": 0.0538
         },
         {
@@ -112,13 +112,13 @@
         },
         {
           "name": "Jay Lane",
-          "votes": 6270,
-          "percentage": 0.3155
+          "votes": 6271,
+          "percentage": 0.3156
         },
         {
           "name": "David Forsythe",
-          "votes": 3148,
-          "percentage": 0.1584
+          "votes": 3149,
+          "percentage": 0.1585
         },
         {
           "name": "Cole Johnson",
@@ -187,7 +187,7 @@
       "candidates": [
         {
           "name": "Jake Johnson",
-          "votes": 7318,
+          "votes": 7319,
           "percentage": 0.6108
         },
         {
@@ -242,12 +242,12 @@
       "candidates": [
         {
           "name": "Christine Walczyk",
-          "votes": 491194,
+          "votes": 491196,
           "percentage": 0.6235
         },
         {
           "name": "James Whalen",
-          "votes": 296591,
+          "votes": 296592,
           "percentage": 0.3765
         }
       ]
@@ -257,12 +257,12 @@
       "candidates": [
         {
           "name": "Michael Byrne",
-          "votes": 300892,
+          "votes": 300897,
           "percentage": 0.5154
         },
         {
           "name": "Matt Smith",
-          "votes": 282868,
+          "votes": 282878,
           "percentage": 0.4846
         }
       ]
@@ -453,16 +453,16 @@
         {
           "name": "Jamie Ager",
           "votes": 49078,
-          "percentage": 0.6469
+          "percentage": 0.6468
         },
         {
           "name": "Dr. Richard Hudspeth",
-          "votes": 12027,
+          "votes": 12028,
           "percentage": 0.1585
         },
         {
           "name": "Zelda Briarwood",
-          "votes": 9852,
+          "votes": 9854,
           "percentage": 0.1299
         },
         {
@@ -482,22 +482,22 @@
       "candidates": [
         {
           "name": "Michael Whatley",
-          "votes": 404211,
+          "votes": 404216,
           "percentage": 0.646
         },
         {
           "name": "Don Brown",
-          "votes": 97590,
+          "votes": 97596,
           "percentage": 0.156
         },
         {
           "name": "Thomas Johnson",
-          "votes": 35383,
-          "percentage": 0.0565
+          "votes": 35384,
+          "percentage": 0.0566
         },
         {
           "name": "Michele Morrow",
-          "votes": 34968,
+          "votes": 34970,
           "percentage": 0.0559
         },
         {
@@ -507,7 +507,7 @@
         },
         {
           "name": "Richard Dansie",
-          "votes": 14930,
+          "votes": 14931,
           "percentage": 0.0239
         },
         {
