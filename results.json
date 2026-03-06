@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T21:13:25",
+  "lastUpdated": "2026-03-06T21:28:51",
   "precinctsReporting": "2633 of 2633",
   "races": {
     "Senate District 26 Republican Primary": {
@@ -42,7 +42,7 @@
       "candidates": [
         {
           "name": "Laurie Buckhout",
-          "votes": 26600,
+          "votes": 26603,
           "percentage": 0.395
         },
         {
@@ -92,12 +92,12 @@
       "candidates": [
         {
           "name": "Rodney Pierce",
-          "votes": 8698,
+          "votes": 8704,
           "percentage": 0.6417
         },
         {
           "name": "Michael Wray",
-          "votes": 4856,
+          "votes": 4859,
           "percentage": 0.3583
         }
       ]
@@ -108,21 +108,21 @@
         {
           "name": "Jerry Tillett",
           "votes": 7535,
-          "percentage": 0.3785
+          "percentage": 0.3784
         },
         {
           "name": "Jay Lane",
-          "votes": 6290,
+          "votes": 6291,
           "percentage": 0.3159
         },
         {
           "name": "David Forsythe",
-          "votes": 3155,
+          "votes": 3156,
           "percentage": 0.1585
         },
         {
           "name": "Cole Johnson",
-          "votes": 2930,
+          "votes": 2931,
           "percentage": 0.1472
         }
       ]
@@ -242,12 +242,12 @@
       "candidates": [
         {
           "name": "Christine Walczyk",
-          "votes": 492321,
+          "votes": 492337,
           "percentage": 0.6234
         },
         {
           "name": "James Whalen",
-          "votes": 297423,
+          "votes": 297431,
           "percentage": 0.3766
         }
       ]
@@ -257,12 +257,12 @@
       "candidates": [
         {
           "name": "Michael Byrne",
-          "votes": 301437,
+          "votes": 301458,
           "percentage": 0.5154
         },
         {
           "name": "Matt Smith",
-          "votes": 283414,
+          "votes": 283433,
           "percentage": 0.4846
         }
       ]
@@ -357,13 +357,13 @@
       "candidates": [
         {
           "name": "Todd Carver",
-          "votes": 3174,
-          "percentage": 0.5946
+          "votes": 3181,
+          "percentage": 0.5949
         },
         {
           "name": "Mike Kubiniec",
-          "votes": 2164,
-          "percentage": 0.4054
+          "votes": 2166,
+          "percentage": 0.4051
         }
       ]
     },
@@ -452,12 +452,12 @@
       "candidates": [
         {
           "name": "Jamie Ager",
-          "votes": 49105,
+          "votes": 49106,
           "percentage": 0.6466
         },
         {
           "name": "Dr. Richard Hudspeth",
-          "votes": 12044,
+          "votes": 12045,
           "percentage": 0.1586
         },
         {
@@ -482,17 +482,17 @@
       "candidates": [
         {
           "name": "Michael Whatley",
-          "votes": 404834,
+          "votes": 404862,
           "percentage": 0.6458
         },
         {
           "name": "Don Brown",
-          "votes": 97788,
+          "votes": 97796,
           "percentage": 0.156
         },
         {
           "name": "Thomas Johnson",
-          "votes": 35491,
+          "votes": 35493,
           "percentage": 0.0566
         },
         {
@@ -507,12 +507,12 @@
         },
         {
           "name": "Richard Dansie",
-          "votes": 14977,
+          "votes": 14978,
           "percentage": 0.0239
         },
         {
           "name": "Margot Dupre",
-          "votes": 14867,
+          "votes": 14870,
           "percentage": 0.0237
         }
       ]
