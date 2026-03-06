@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T21:28:51",
+  "lastUpdated": "2026-03-06T21:44:16",
   "precinctsReporting": "2633 of 2633",
   "races": {
     "Senate District 26 Republican Primary": {
@@ -42,22 +42,22 @@
       "candidates": [
         {
           "name": "Laurie Buckhout",
-          "votes": 26603,
+          "votes": 26604,
           "percentage": 0.395
         },
         {
           "name": "Asa Buck",
-          "votes": 23224,
+          "votes": 23226,
           "percentage": 0.3449
         },
         {
           "name": "Bobby Hanig",
-          "votes": 10920,
+          "votes": 10921,
           "percentage": 0.1622
         },
         {
           "name": "Eric Rouse",
-          "votes": 3622,
+          "votes": 3623,
           "percentage": 0.0538
         },
         {
@@ -157,12 +157,12 @@
       "candidates": [
         {
           "name": "Darren Armstrong",
-          "votes": 7441,
+          "votes": 7444,
           "percentage": 0.5227
         },
         {
           "name": "Keith Kidwell",
-          "votes": 6796,
+          "votes": 6798,
           "percentage": 0.4773
         }
       ]
@@ -242,12 +242,12 @@
       "candidates": [
         {
           "name": "Christine Walczyk",
-          "votes": 492337,
+          "votes": 492348,
           "percentage": 0.6234
         },
         {
           "name": "James Whalen",
-          "votes": 297431,
+          "votes": 297439,
           "percentage": 0.3766
         }
       ]
@@ -257,12 +257,12 @@
       "candidates": [
         {
           "name": "Michael Byrne",
-          "votes": 301458,
+          "votes": 301482,
           "percentage": 0.5154
         },
         {
           "name": "Matt Smith",
-          "votes": 283433,
+          "votes": 283459,
           "percentage": 0.4846
         }
       ]
@@ -482,37 +482,37 @@
       "candidates": [
         {
           "name": "Michael Whatley",
-          "votes": 404862,
+          "votes": 404884,
           "percentage": 0.6458
         },
         {
           "name": "Don Brown",
-          "votes": 97796,
+          "votes": 97812,
           "percentage": 0.156
         },
         {
           "name": "Thomas Johnson",
-          "votes": 35493,
+          "votes": 35499,
           "percentage": 0.0566
         },
         {
           "name": "Michele Morrow",
-          "votes": 35036,
+          "votes": 35039,
           "percentage": 0.0559
         },
         {
           "name": "Elizabeth A. Temple",
-          "votes": 23859,
+          "votes": 23862,
           "percentage": 0.0381
         },
         {
           "name": "Richard Dansie",
-          "votes": 14978,
+          "votes": 14980,
           "percentage": 0.0239
         },
         {
           "name": "Margot Dupre",
-          "votes": 14870,
+          "votes": 14872,
           "percentage": 0.0237
         }
       ]
