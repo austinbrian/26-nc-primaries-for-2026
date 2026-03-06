@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T20:25:01",
+  "lastUpdated": "2026-03-06T20:43:57",
   "precinctsReporting": "2633 of 2633",
   "races": {
     "Senate District 26 Republican Primary": {
@@ -22,18 +22,18 @@
       "candidates": [
         {
           "name": "Rev. Rodney Sadler",
-          "votes": 7716,
-          "percentage": 0.6996
+          "votes": 7728,
+          "percentage": 0.6995
         },
         {
           "name": "Carla Cunningham",
-          "votes": 2401,
-          "percentage": 0.2177
+          "votes": 2404,
+          "percentage": 0.2176
         },
         {
           "name": "Vermanno Bowman",
-          "votes": 912,
-          "percentage": 0.0827
+          "votes": 916,
+          "percentage": 0.0829
         }
       ]
     },
@@ -202,18 +202,18 @@
       "candidates": [
         {
           "name": "Veleria Levy",
-          "votes": 4949,
-          "percentage": 0.686
+          "votes": 4966,
+          "percentage": 0.6856
         },
         {
           "name": "Nasif Majeed",
-          "votes": 1889,
-          "percentage": 0.2619
+          "votes": 1896,
+          "percentage": 0.2618
         },
         {
           "name": "Tucker Neal",
-          "votes": 376,
-          "percentage": 0.0521
+          "votes": 381,
+          "percentage": 0.0526
         }
       ]
     },
@@ -242,12 +242,12 @@
       "candidates": [
         {
           "name": "Christine Walczyk",
-          "votes": 491808,
+          "votes": 491952,
           "percentage": 0.6234
         },
         {
           "name": "James Whalen",
-          "votes": 297058,
+          "votes": 297143,
           "percentage": 0.3766
         }
       ]
@@ -257,12 +257,12 @@
       "candidates": [
         {
           "name": "Michael Byrne",
-          "votes": 301279,
+          "votes": 301293,
           "percentage": 0.5154
         },
         {
           "name": "Matt Smith",
-          "votes": 283239,
+          "votes": 283258,
           "percentage": 0.4846
         }
       ]
@@ -482,12 +482,12 @@
       "candidates": [
         {
           "name": "Michael Whatley",
-          "votes": 404645,
+          "votes": 404667,
           "percentage": 0.6459
         },
         {
           "name": "Don Brown",
-          "votes": 97722,
+          "votes": 97728,
           "percentage": 0.156
         },
         {
@@ -502,17 +502,17 @@
         },
         {
           "name": "Elizabeth A. Temple",
-          "votes": 23840,
+          "votes": 23841,
           "percentage": 0.0381
         },
         {
           "name": "Richard Dansie",
-          "votes": 14959,
+          "votes": 14960,
           "percentage": 0.0239
         },
         {
           "name": "Margot Dupre",
-          "votes": 14846,
+          "votes": 14850,
           "percentage": 0.0237
         }
       ]
