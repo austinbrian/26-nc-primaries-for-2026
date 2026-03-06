@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T16:50:44",
+  "lastUpdated": "2026-03-06T17:13:41",
   "precinctsReporting": "2633 of 2633",
   "races": {
     "Senate District 26 Republican Primary": {
@@ -187,13 +187,13 @@
       "candidates": [
         {
           "name": "Jake Johnson",
-          "votes": 7319,
-          "percentage": 0.6108
+          "votes": 7324,
+          "percentage": 0.6106
         },
         {
           "name": "Mike Hager",
-          "votes": 4663,
-          "percentage": 0.3892
+          "votes": 4670,
+          "percentage": 0.3894
         }
       ]
     },
@@ -247,7 +247,7 @@
         },
         {
           "name": "James Whalen",
-          "votes": 296592,
+          "votes": 296593,
           "percentage": 0.3765
         }
       ]
@@ -257,12 +257,12 @@
       "candidates": [
         {
           "name": "Michael Byrne",
-          "votes": 300902,
+          "votes": 300908,
           "percentage": 0.5154
         },
         {
           "name": "Matt Smith",
-          "votes": 282881,
+          "votes": 282885,
           "percentage": 0.4846
         }
       ]
@@ -462,7 +462,7 @@
         },
         {
           "name": "Zelda Briarwood",
-          "votes": 9854,
+          "votes": 9855,
           "percentage": 0.1299
         },
         {
@@ -482,18 +482,18 @@
       "candidates": [
         {
           "name": "Michael Whatley",
-          "votes": 404223,
+          "votes": 404228,
           "percentage": 0.646
         },
         {
           "name": "Don Brown",
-          "votes": 97598,
+          "votes": 97599,
           "percentage": 0.156
         },
         {
           "name": "Thomas Johnson",
-          "votes": 35384,
-          "percentage": 0.0565
+          "votes": 35387,
+          "percentage": 0.0566
         },
         {
           "name": "Michele Morrow",
@@ -512,7 +512,7 @@
         },
         {
           "name": "Margot Dupre",
-          "votes": 14817,
+          "votes": 14818,
           "percentage": 0.0237
         }
       ]
