@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T16:12:00",
+  "lastUpdated": "2026-03-06T16:28:36",
   "precinctsReporting": "2633 of 2633",
   "races": {
     "Senate District 26 Republican Primary": {
@@ -242,7 +242,7 @@
       "candidates": [
         {
           "name": "Christine Walczyk",
-          "votes": 491196,
+          "votes": 491197,
           "percentage": 0.6235
         },
         {
@@ -257,12 +257,12 @@
       "candidates": [
         {
           "name": "Michael Byrne",
-          "votes": 300897,
+          "votes": 300902,
           "percentage": 0.5154
         },
         {
           "name": "Matt Smith",
-          "votes": 282878,
+          "votes": 282881,
           "percentage": 0.4846
         }
       ]
@@ -452,7 +452,7 @@
       "candidates": [
         {
           "name": "Jamie Ager",
-          "votes": 49078,
+          "votes": 49079,
           "percentage": 0.6468
         },
         {
@@ -482,22 +482,22 @@
       "candidates": [
         {
           "name": "Michael Whatley",
-          "votes": 404216,
+          "votes": 404223,
           "percentage": 0.646
         },
         {
           "name": "Don Brown",
-          "votes": 97596,
+          "votes": 97598,
           "percentage": 0.156
         },
         {
           "name": "Thomas Johnson",
           "votes": 35384,
-          "percentage": 0.0566
+          "percentage": 0.0565
         },
         {
           "name": "Michele Morrow",
-          "votes": 34970,
+          "votes": 34971,
           "percentage": 0.0559
         },
         {
