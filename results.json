@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T19:31:46",
+  "lastUpdated": "2026-03-06T19:54:04",
   "precinctsReporting": "2633 of 2633",
   "races": {
     "Senate District 26 Republican Primary": {
@@ -42,28 +42,28 @@
       "candidates": [
         {
           "name": "Laurie Buckhout",
-          "votes": 26564,
+          "votes": 26586,
           "percentage": 0.3953
         },
         {
           "name": "Asa Buck",
-          "votes": 23148,
+          "votes": 23162,
           "percentage": 0.3444
         },
         {
           "name": "Bobby Hanig",
-          "votes": 10908,
+          "votes": 10912,
           "percentage": 0.1623
         },
         {
           "name": "Eric Rouse",
-          "votes": 3619,
+          "votes": 3620,
           "percentage": 0.0538
         },
         {
           "name": "Ashley-Nicole Russell",
-          "votes": 2968,
-          "percentage": 0.0442
+          "votes": 2969,
+          "percentage": 0.0441
         }
       ]
     },
@@ -72,17 +72,17 @@
       "candidates": [
         {
           "name": "Valerie Foushee",
-          "votes": 61537,
+          "votes": 61559,
           "percentage": 0.4918
         },
         {
           "name": "Nida Allam",
-          "votes": 60335,
+          "votes": 60362,
           "percentage": 0.4822
         },
         {
           "name": "Mary Patterson",
-          "votes": 3253,
+          "votes": 3258,
           "percentage": 0.026
         }
       ]
@@ -107,23 +107,23 @@
       "candidates": [
         {
           "name": "Jerry Tillett",
-          "votes": 7533,
-          "percentage": 0.3788
+          "votes": 7535,
+          "percentage": 0.3785
         },
         {
           "name": "Jay Lane",
-          "votes": 6275,
-          "percentage": 0.3155
+          "votes": 6290,
+          "percentage": 0.3159
         },
         {
           "name": "David Forsythe",
-          "votes": 3150,
-          "percentage": 0.1584
+          "votes": 3155,
+          "percentage": 0.1585
         },
         {
           "name": "Cole Johnson",
-          "votes": 2929,
-          "percentage": 0.1473
+          "votes": 2930,
+          "percentage": 0.1472
         }
       ]
     },
@@ -157,12 +157,12 @@
       "candidates": [
         {
           "name": "Darren Armstrong",
-          "votes": 7437,
+          "votes": 7441,
           "percentage": 0.5227
         },
         {
           "name": "Keith Kidwell",
-          "votes": 6792,
+          "votes": 6796,
           "percentage": 0.4773
         }
       ]
@@ -242,12 +242,12 @@
       "candidates": [
         {
           "name": "Christine Walczyk",
-          "votes": 491435,
+          "votes": 491710,
           "percentage": 0.6235
         },
         {
           "name": "James Whalen",
-          "votes": 296762,
+          "votes": 296973,
           "percentage": 0.3765
         }
       ]
@@ -257,12 +257,12 @@
       "candidates": [
         {
           "name": "Michael Byrne",
-          "votes": 301067,
+          "votes": 301178,
           "percentage": 0.5154
         },
         {
           "name": "Matt Smith",
-          "votes": 283030,
+          "votes": 283134,
           "percentage": 0.4846
         }
       ]
@@ -272,13 +272,13 @@
       "candidates": [
         {
           "name": "Caroline Eason",
-          "votes": 3575,
-          "percentage": 0.5369
+          "votes": 3579,
+          "percentage": 0.5366
         },
         {
           "name": "Kelly Hastings",
-          "votes": 3084,
-          "percentage": 0.4631
+          "votes": 3091,
+          "percentage": 0.4634
         }
       ]
     },
@@ -337,18 +337,18 @@
       "candidates": [
         {
           "name": "Winn Decker",
-          "votes": 4713,
-          "percentage": 0.5036
+          "votes": 4721,
+          "percentage": 0.5035
         },
         {
           "name": "Marcus Gadson",
-          "votes": 3559,
-          "percentage": 0.3803
+          "votes": 3568,
+          "percentage": 0.3805
         },
         {
           "name": "Ralph Clements",
-          "votes": 1087,
-          "percentage": 0.1161
+          "votes": 1088,
+          "percentage": 0.116
         }
       ]
     },
@@ -387,18 +387,18 @@
       "candidates": [
         {
           "name": "Clancy Baucom",
-          "votes": 4502,
-          "percentage": 0.7922
+          "votes": 4516,
+          "percentage": 0.7919
         },
         {
           "name": "John Powell",
-          "votes": 788,
-          "percentage": 0.1387
+          "votes": 792,
+          "percentage": 0.1389
         },
         {
           "name": "Richard Miller",
-          "votes": 393,
-          "percentage": 0.0692
+          "votes": 395,
+          "percentage": 0.0693
         }
       ]
     },
@@ -422,13 +422,13 @@
       "candidates": [
         {
           "name": "Jimmy Dixon",
-          "votes": 5472,
-          "percentage": 0.8168
+          "votes": 5478,
+          "percentage": 0.8169
         },
         {
           "name": "Marcella Barbour",
-          "votes": 1227,
-          "percentage": 0.1832
+          "votes": 1228,
+          "percentage": 0.1831
         }
       ]
     },
@@ -482,37 +482,37 @@
       "candidates": [
         {
           "name": "Michael Whatley",
-          "votes": 404404,
-          "percentage": 0.646
+          "votes": 404522,
+          "percentage": 0.6459
         },
         {
           "name": "Don Brown",
-          "votes": 97653,
+          "votes": 97688,
           "percentage": 0.156
         },
         {
           "name": "Thomas Johnson",
-          "votes": 35417,
+          "votes": 35442,
           "percentage": 0.0566
         },
         {
           "name": "Michele Morrow",
-          "votes": 34990,
+          "votes": 35011,
           "percentage": 0.0559
         },
         {
           "name": "Elizabeth A. Temple",
-          "votes": 23818,
+          "votes": 23827,
           "percentage": 0.038
         },
         {
           "name": "Richard Dansie",
-          "votes": 14943,
+          "votes": 14948,
           "percentage": 0.0239
         },
         {
           "name": "Margot Dupre",
-          "votes": 14831,
+          "votes": 14841,
           "percentage": 0.0237
         }
       ]
