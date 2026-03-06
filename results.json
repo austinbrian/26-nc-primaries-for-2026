@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T19:15:03",
+  "lastUpdated": "2026-03-06T19:31:46",
   "precinctsReporting": "2633 of 2633",
   "races": {
     "Senate District 26 Republican Primary": {
@@ -242,12 +242,12 @@
       "candidates": [
         {
           "name": "Christine Walczyk",
-          "votes": 491428,
+          "votes": 491435,
           "percentage": 0.6235
         },
         {
           "name": "James Whalen",
-          "votes": 296755,
+          "votes": 296762,
           "percentage": 0.3765
         }
       ]
@@ -257,12 +257,12 @@
       "candidates": [
         {
           "name": "Michael Byrne",
-          "votes": 301062,
+          "votes": 301067,
           "percentage": 0.5154
         },
         {
           "name": "Matt Smith",
-          "votes": 283027,
+          "votes": 283030,
           "percentage": 0.4846
         }
       ]
@@ -452,17 +452,17 @@
       "candidates": [
         {
           "name": "Jamie Ager",
-          "votes": 49084,
+          "votes": 49085,
           "percentage": 0.6468
         },
         {
           "name": "Dr. Richard Hudspeth",
-          "votes": 12028,
+          "votes": 12029,
           "percentage": 0.1585
         },
         {
           "name": "Zelda Briarwood",
-          "votes": 9858,
+          "votes": 9859,
           "percentage": 0.1299
         },
         {
@@ -482,7 +482,7 @@
       "candidates": [
         {
           "name": "Michael Whatley",
-          "votes": 404400,
+          "votes": 404404,
           "percentage": 0.646
         },
         {
@@ -497,17 +497,17 @@
         },
         {
           "name": "Michele Morrow",
-          "votes": 34989,
+          "votes": 34990,
           "percentage": 0.0559
         },
         {
           "name": "Elizabeth A. Temple",
-          "votes": 23817,
+          "votes": 23818,
           "percentage": 0.038
         },
         {
           "name": "Richard Dansie",
-          "votes": 14941,
+          "votes": 14943,
           "percentage": 0.0239
         },
         {
