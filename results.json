@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T00:21:58",
+  "lastUpdated": "2026-03-07T00:51:19",
   "precinctsReporting": "2633 of 2633",
   "races": {
     "Senate District 26 Republican Primary": {
@@ -242,12 +242,12 @@
       "candidates": [
         {
           "name": "Christine Walczyk",
-          "votes": 492638,
+          "votes": 492792,
           "percentage": 0.6234
         },
         {
           "name": "James Whalen",
-          "votes": 297629,
+          "votes": 297756,
           "percentage": 0.3766
         }
       ]
@@ -257,12 +257,12 @@
       "candidates": [
         {
           "name": "Michael Byrne",
-          "votes": 301681,
+          "votes": 301718,
           "percentage": 0.5154
         },
         {
           "name": "Matt Smith",
-          "votes": 283625,
+          "votes": 283649,
           "percentage": 0.4846
         }
       ]
@@ -437,12 +437,12 @@
       "candidates": [
         {
           "name": "Tom McInnis",
-          "votes": 11565,
+          "votes": 11566,
           "percentage": 0.733
         },
         {
           "name": "Ray Daly",
-          "votes": 4212,
+          "votes": 4214,
           "percentage": 0.267
         }
       ]
@@ -482,32 +482,32 @@
       "candidates": [
         {
           "name": "Michael Whatley",
-          "votes": 405088,
+          "votes": 405133,
           "percentage": 0.6457
         },
         {
           "name": "Don Brown",
-          "votes": 97885,
+          "votes": 97894,
           "percentage": 0.156
         },
         {
           "name": "Thomas Johnson",
-          "votes": 35533,
+          "votes": 35535,
           "percentage": 0.0566
         },
         {
           "name": "Michele Morrow",
-          "votes": 35062,
+          "votes": 35066,
           "percentage": 0.0559
         },
         {
           "name": "Elizabeth A. Temple",
-          "votes": 23883,
+          "votes": 23887,
           "percentage": 0.0381
         },
         {
           "name": "Richard Dansie",
-          "votes": 14993,
+          "votes": 14996,
           "percentage": 0.0239
         },
         {
