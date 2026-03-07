@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T00:51:19",
+  "lastUpdated": "2026-03-07T01:34:44",
   "precinctsReporting": "2633 of 2633",
   "races": {
     "Senate District 26 Republican Primary": {
@@ -242,13 +242,13 @@
       "candidates": [
         {
           "name": "Christine Walczyk",
-          "votes": 492792,
-          "percentage": 0.6234
+          "votes": 492809,
+          "percentage": 0.6233
         },
         {
           "name": "James Whalen",
-          "votes": 297756,
-          "percentage": 0.3766
+          "votes": 297780,
+          "percentage": 0.3767
         }
       ]
     },
@@ -257,12 +257,12 @@
       "candidates": [
         {
           "name": "Michael Byrne",
-          "votes": 301718,
+          "votes": 301730,
           "percentage": 0.5154
         },
         {
           "name": "Matt Smith",
-          "votes": 283649,
+          "votes": 283660,
           "percentage": 0.4846
         }
       ]
@@ -482,32 +482,32 @@
       "candidates": [
         {
           "name": "Michael Whatley",
-          "votes": 405133,
+          "votes": 405144,
           "percentage": 0.6457
         },
         {
           "name": "Don Brown",
-          "votes": 97894,
+          "votes": 97898,
           "percentage": 0.156
         },
         {
           "name": "Thomas Johnson",
-          "votes": 35535,
+          "votes": 35538,
           "percentage": 0.0566
         },
         {
           "name": "Michele Morrow",
-          "votes": 35066,
+          "votes": 35067,
           "percentage": 0.0559
         },
         {
           "name": "Elizabeth A. Temple",
-          "votes": 23887,
+          "votes": 23890,
           "percentage": 0.0381
         },
         {
           "name": "Richard Dansie",
-          "votes": 14996,
+          "votes": 14997,
           "percentage": 0.0239
         },
         {
