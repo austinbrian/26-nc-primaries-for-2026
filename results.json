@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T15:35:24",
+  "lastUpdated": "2026-03-09T16:06:39",
   "precinctsReporting": "2633 of 2633",
   "races": {
     "Senate District 26 Republican Primary": {
@@ -47,7 +47,7 @@
         },
         {
           "name": "Asa Buck",
-          "votes": 23230,
+          "votes": 23228,
           "percentage": 0.3448
         },
         {
@@ -242,7 +242,7 @@
       "candidates": [
         {
           "name": "Christine Walczyk",
-          "votes": 492811,
+          "votes": 492810,
           "percentage": 0.6233
         },
         {
@@ -262,7 +262,7 @@
         },
         {
           "name": "Matt Smith",
-          "votes": 283663,
+          "votes": 283662,
           "percentage": 0.4846
         }
       ]
@@ -482,7 +482,7 @@
       "candidates": [
         {
           "name": "Michael Whatley",
-          "votes": 405148,
+          "votes": 405146,
           "percentage": 0.6457
         },
         {
